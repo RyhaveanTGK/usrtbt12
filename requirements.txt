@@ -1,16 +1,9 @@
 setuptools==82.0.0
-
-# ── Telegram core (Telethon) ────────────────────────────────────────────────
 telethon==1.44.0
-cryptg==0.5.0.post0
 py-tgcalls==2.2.11
-
-# ── Storage / config ────────────────────────────────────────────────────────
 pymongo==4.16.0
 certifi==2026.1.4
 python-dotenv
-
-# ── Media / utils ───────────────────────────────────────────────────────────
 python-magic==0.4.27
 lottie==0.7.2
 pytz==2025.2
