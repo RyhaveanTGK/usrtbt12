@@ -1,0 +1,28 @@
+setuptools==82.0.0
+
+# ── Telegram core (Telethon) ────────────────────────────────────────────────
+telethon==1.44.0
+cryptg==0.5.0.post0
+py-tgcalls==2.2.11
+
+# ── Storage / config ────────────────────────────────────────────────────────
+pymongo==4.16.0
+certifi==2026.1.4
+python-dotenv
+
+# ── Media / utils ───────────────────────────────────────────────────────────
+python-magic==0.4.27
+lottie==0.7.2
+pytz==2025.2
+pymediainfo==7.0.1
+Pillow==12.1.0
+requests==2.32.5
+aiohttp>=3.9.0
+imageio==2.37.2
+imageio-ffmpeg==0.6.0
+opencv-python-headless==4.13.0.92
+yt-dlp[default]==2026.3.17
+pytesseract==0.3.13
+moviepy==1.0.3
+psutil==7.2.2
+speedtest-cli==2.1.3
